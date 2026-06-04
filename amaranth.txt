@@ -1,4 +1,4 @@
-#profile-title=Amaranth VPN | Быстрые серверы по всему миру 🌺
+#profile-title=Amaranth VPN | Быстрые серверы 🌺
 #support=https://t.me/Amaranthvpn
 
 # ═══════════════════════════════════════
