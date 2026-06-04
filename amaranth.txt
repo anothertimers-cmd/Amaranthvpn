@@ -1,6 +1,8 @@
 #profile-title=Amaranth🌺 | @Amaranthvpn
 #support=https://t.me/Amaranthvpn
 
+#некоторые конфиги были взяты из репозитория https://github.com/igareck/vpn-configs-for-russia
+
 vless://1b9e301d-cecd-4eb1-8b36-eef811c2696d@ru7.vitok.cc:443?type=tcp&security=reality&fp=chrome&pbk=eXl8Dpux23etQ0aA_16LUQ9eBwfDqbCaJm7YusDIzUU&sid=5e841fab&sni=ads.x5.ru#🇪🇺 Белые списки №1
 vless://c23e11a6-d8b8-4884-a751-a71d4d1c320c@ya-most-fr.harknmav.fun:7443?type=tcp&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=shFF3ItNnCCFyXKCqkGqz0sUYu_qoE7h1-UbNlQvWQo&sid=fd1c2c12ca44261a&sni=max.ru#🇪🇺 Белые списки №2
 vless://87be8be2-9296-4912-944e-d49cc81485d8@85.158.109.113:443?encryption=none&security=reality&sni=www.kinopoisk.ru&fp=chrome&pbk=ice5ApDYceTGVoxODC51F4RVW0HBoykvMpgL4_qLABw&sid=aabbccdd&type=xhttp&path=/tDjkeuxyQPUDqF8wT2#🇪🇺 Белые списки №3
